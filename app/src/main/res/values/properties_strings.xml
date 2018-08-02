@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--sms_had, sms_no-->
+    <string name="sms_type">had_sms</string>
+
+    <!--    captcha_no, captcha_manual, captcha_auto -->
+    <string name="captcha_type">captcha_no</string>
+
+    <!--注册成功后是否跳转到web 1是 0否-->
+    <string name="register_to_web">0</string>
+
+
+    <!--是否转换大写 1是， 0否-->
+    <string name="convert_upper_case">0</string>
+
+</resources>

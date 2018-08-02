@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--sms_had, sms_no-->
+    <string name="sms_type">sms_had</string>
+
+    <!--    captcha_no, captcha_manual, captcha_auto -->
+    <string name="captcha_type">captcha_no</string>
+
+
+</resources>
